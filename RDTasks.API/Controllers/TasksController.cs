@@ -1,3 +1,5 @@
+using RDTasks.Domain.Handlers.Tasks;
+
 namespace RDTasks.API.Controllers;
 
 [ApiController]

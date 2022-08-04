@@ -1,6 +1,6 @@
-namespace RDTasks.Domain.Handlers;
+namespace RDTasks.Domain.Handlers.Tasks;
 
-public class GetAllUserTasks
+public static class CreateTask
 {
     public record Request : IRequest<Response>;
     
